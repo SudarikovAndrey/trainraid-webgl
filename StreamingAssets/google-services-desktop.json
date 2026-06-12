@@ -1,0 +1,180 @@
+{
+  "project_info": {
+    "project_number": "81294177979",
+    "firebase_url": "https://patsan-c89e0-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "patsan-c89e0",
+    "storage_bucket": "patsan-free-location"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294177979:android:3a003fa462f84224549b9e",
+        "android_client_info": {
+          "package_name": "com.r2rstudio.blockboss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81294177979-ps98guad34nmujip3s5goqb45rbhn47l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r2rstudio.blockboss",
+            "certificate_hash": "b1bdcb9e1ab3ac833d45127a206ef787938a6c3f"
+          }
+        },
+        {
+          "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UTR59xkKdx78muGN_bN3s57sdTwFetE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81294177979-vu3i6r0bj5glfk39ahavakusn578ov1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.r2rstudio.blockboss"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5681845799994848~2219051379"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294177979:android:4a3c98c26b77dce1549b9e",
+        "android_client_info": {
+          "package_name": "com.r2rstudio.blockboss.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81294177979-lgj2sl638r67746s5hvutghf0sg6t3e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r2rstudio.blockboss.dev",
+            "certificate_hash": "712197e888d9e2063eba38c908fad5545ffeceab"
+          }
+        },
+        {
+          "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UTR59xkKdx78muGN_bN3s57sdTwFetE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81294177979-vu3i6r0bj5glfk39ahavakusn578ov1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.r2rstudio.blockboss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294177979:android:bf6f5ba93561b047549b9e",
+        "android_client_info": {
+          "package_name": "com.r2rstudio.blockboss.rustore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UTR59xkKdx78muGN_bN3s57sdTwFetE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81294177979-vu3i6r0bj5glfk39ahavakusn578ov1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.r2rstudio.blockboss"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81294177979:android:e83780a17d218f36549b9e",
+        "android_client_info": {
+          "package_name": "com.r2rstudio.blockboss.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81294177979-j8r9b1kmouqh16clst87tt7vjkt3iea1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.r2rstudio.blockboss.stage",
+            "certificate_hash": "4650717a82253bc49507640171361c92d453196c"
+          }
+        },
+        {
+          "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3UTR59xkKdx78muGN_bN3s57sdTwFetE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81294177979-nikpq2vj1obhi3l6e787capcs15513d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "81294177979-vu3i6r0bj5glfk39ahavakusn578ov1t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.r2rstudio.blockboss"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
